@@ -21,7 +21,7 @@ var fetch = require("isomorphic-fetch");
 var Dropbox = require("dropbox").Dropbox;
 var dbx = new Dropbox({
 	accessToken:
-		"BqD0eu8yhmAAAAAAAAABehsR2iWQXmzgo37lhqkDK998--ChPVO0tasTf_cn301a",
+		"BqD0eu8yhmAAAAAAAAABf3vvjHH9punzxFFz_HXkz53608Vo7Ofogt0Qpx6JowGK",
 	fetch: fetch
 });
 
